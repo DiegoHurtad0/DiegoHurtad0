@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diegohurtadoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diegohurtadoo" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegohurtadoo" height="30" width="40" /></a>
 <a href="https://kaggle.com/diego o'hurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="diego o'hurtado" height="30" width="40" /></a>
 </p>
-<a href="https://www.researchgate.net/profile/Diego-Hurtado-Olivares" target="blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" alt="diego o'hurtado" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Diego-Hurtado-Olivares" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" alt="diego o'hurtado" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>

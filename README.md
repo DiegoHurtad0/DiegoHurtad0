@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm MSc. DIEGO O'HURTADO</h1>
 
 <h3 align="center">I love creating visually appealing and interactive data visualizations that drive action within the business needs. Highly skilled in machine learning, data visualization, and creative thinking</h3>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on **data analysis of covid in Mexico** [https://medium.com/towards-data-science/covid-19-an-overview-of-mexico-ccf702ec80d9](https://medium.com/@diego.hurtado.olivares)
-
-- 📝 I regularly write articles on [https://medium.com/@diego.hurtado.olivares](https://medium.com/@diego.hurtado.olivares)
+- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
+- 🌱 I’m currently learning GraphQL and C++; 
+- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
+- 📫 How to reach me: geekyabhi12@gmail.com;
+- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
 
 **Languages and Tools:**  
 
@@ -23,6 +30,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+
+⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
+
+
+
+- 🔭 I’m currently working on **data analysis of covid in Mexico** [https://medium.com/towards-data-science/covid-19-an-overview-of-mexico-ccf702ec80d9](https://medium.com/@diego.hurtado.olivares)
+
+- 📝 I regularly write articles on [https://medium.com/@diego.hurtado.olivares](https://medium.com/@diego.hurtado.olivares)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

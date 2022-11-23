@@ -80,3 +80,17 @@
 </p>
 
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
+  
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+
+⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
+
+
+<a href="https://github.com/abhisheknaiidu/A-POP">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
+</a>
+
+<a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
+</a>
+

@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@diego.hurtado.olivares](https://medium.com/@diego.hurtado.olivares)
 
-- 💬 Ask me about **pandas**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diegohurtadoo" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegohurtadoo" height="30" width="40" /></a>

@@ -52,10 +52,16 @@ I’m currently working on [Data analysis of covid in Mexico](https://medium.com
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
   
 <h3 align="left">Work Experience: </h3>
-<img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="git" width="40" height="40"/> </a> <a href="" target="huawei" rel="noreferrer"> -->
+<img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="git" width="40" height="40"/> </a> <a href="" target="huawei" rel="noreferrer"> 
+
+https://codepen.io/levente-frks/pen/GRGEdjP?editors=1000
+https://codepen.io/satvikchachra/pen/ZEQRBxd
+
+-->
 
 
 <br><br>
+  
 
 <h3 align="left">Data Visualization Tools: </h3>
 <p> <!-- GitHub README Stats -->

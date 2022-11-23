@@ -26,6 +26,7 @@
 <h3 align="left">Data Science Tools:</h3>
 <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+<img src="https://geopandas.org/en/stable/_images/geopandas_icon_green.png" alt="scikit_learn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
   
 <h3 align="left">Data Visualization Tools: </h3>
 

@@ -2,7 +2,7 @@
 
 <h3 align="center">I love creating visually appealing and interactive data visualizations that drive action within the business needs. Highly skilled in machine learning, data visualization, and creative thinking</h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://www.sigsa.info/content/dam/esrisites/en-us/arcgis/capabilities/spatial-analysis/images/bigdata-visualization.gif" />
   
 **Talking about Personal Stuffs:**
 

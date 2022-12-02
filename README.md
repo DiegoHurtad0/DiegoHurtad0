@@ -4,7 +4,7 @@
 
 <br>
 
-<img height="600" width="550" align="right" src="https://miro.medium.com/max/720/1*py5eaL8Lr1SCe4m59T_ugA.png" />
+<img height="460" width="460" align="right" src="https://miro.medium.com/max/720/1*py5eaL8Lr1SCe4m59T_ugA.png" />
 
 <h3 align="left">Experience:</h3>
 
@@ -29,17 +29,13 @@ Business Analytics, Data Visualization, Geospatial Analysis, Machine Learning, V
 
 <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
  
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 <h1 align="center" href="https://medium.com/towards-data-science/covid-19-an-overview-of-mexico-ccf702ec80d9/" > Data analysis of covid in Mexico: </h1>
 
@@ -70,16 +66,15 @@ Business Analytics, Data Visualization, Geospatial Analysis, Machine Learning, V
 <a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
 <br>
 <br>
+<br>
+<br>
 <a href="https://github.com/DiegoHurtad0/Covid-19-Dataset-Mexico">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoHurtad0&repo=Covid-19-Dataset-Mexico" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoHurtad0&repo=Covid-19-Dataset-Mexico" />
 </a>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 
 <h1 align="left">Covid 19 Choropleth Map</h1>
 

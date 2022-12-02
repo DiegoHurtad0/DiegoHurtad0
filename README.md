@@ -43,7 +43,8 @@ Business Analytics, Data Visualization, Geospatial Analysis, Machine Learning, V
   <a href=""><img width="500" height="500" align='right' src="https://miro.medium.com/max/720/1*m7P_xKqcyFdEptF77Kqt6w.png?raw=true"></a>
 </p>
 
-
+<h3 align="left">Project:</h3>
+ 
 ▪️ Covid 19 — Data Analyst Mexico Overview
  
 ▪️ Explanation model of death cases in Mexico
@@ -63,18 +64,19 @@ Business Analytics, Data Visualization, Geospatial Analysis, Machine Learning, V
 <img src="https://geopandas.org/en/stable/_images/geopandas_icon_green.png" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 <h3 align="left">Full Read:</h3>
 <a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
 <br>
-<br>
-<br>
+<h3 align="left">Data Visualization Tools: </h3>
+<img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="plotly2" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap2" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+
 <br>
 <a href="https://github.com/DiegoHurtad0/Covid-19-Dataset-Mexico">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoHurtad0&repo=Covid-19-Dataset-Mexico" />
+  <img align="center"  width="650" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoHurtad0&repo=Covid-19-Dataset-Mexico" />
 </a>
 
 <br>
-
-
-
 <h1 align="left">Covid 19 Choropleth Map</h1>
 
 <p>

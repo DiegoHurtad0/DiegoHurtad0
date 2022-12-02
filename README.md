@@ -37,7 +37,7 @@ Business Analytics, Data Visualization, Geospatial Analysis, Machine Learning, V
 <br>
 <br>
 
-<h1 align="left" href="https://medium.com/towards-data-science/covid-19-an-overview-of-mexico-ccf702ec80d9/" > Data analysis of covid in Mexico: </h1>
+<h1 align="center" href="https://medium.com/towards-data-science/covid-19-an-overview-of-mexico-ccf702ec80d9/" > Data analysis of covid in Mexico: </h1>
 
 <p>
   <a href="https://waylonwalker.com/latest"><img width="500" height="550" align='right' src="https://miro.medium.com/max/720/1*m7P_xKqcyFdEptF77Kqt6w.png?raw=true"></a>
@@ -45,25 +45,19 @@ Business Analytics, Data Visualization, Geospatial Analysis, Machine Learning, V
 
 
 ▪️ Covid 19 — Data Analyst Mexico Overview
-
 ▪️ Explanation model of death cases in Mexico
-
 ▪️ Mexico Counties Covid Cases Correlation
-
 ▪️ Mexico`s Mobility pattern behaviour
-
 ▪️ Mexico Counties Clustering
 
 <h3 align="left">Languages:</h3>
 <a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
 <br>
 <h3 align="left">Data Science Tools:</h3>
-
 <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="seaborn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
 <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 <img src="https://geopandas.org/en/stable/_images/geopandas_icon_green.png" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
-
 <h3 align="left">Full Read:</h3>
 <a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
 <br>

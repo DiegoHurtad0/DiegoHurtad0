@@ -32,22 +32,30 @@ Business Analytics, Data Visualization, Geospatial Analysis, Machine Learning, V
 <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
-
-
+ 
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
 <h1 align="center" href="https://medium.com/towards-data-science/covid-19-an-overview-of-mexico-ccf702ec80d9/" > Data analysis of covid in Mexico: </h1>
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="500" height="550" align='right' src="https://miro.medium.com/max/720/1*m7P_xKqcyFdEptF77Kqt6w.png?raw=true"></a>
+  <a href=""><img width="500" height="500" align='right' src="https://miro.medium.com/max/720/1*m7P_xKqcyFdEptF77Kqt6w.png?raw=true"></a>
 </p>
 
 
 ▪️ Covid 19 — Data Analyst Mexico Overview
+ 
 ▪️ Explanation model of death cases in Mexico
+ 
 ▪️ Mexico Counties Covid Cases Correlation
+ 
 ▪️ Mexico`s Mobility pattern behaviour
+ 
 ▪️ Mexico Counties Clustering
 
 <h3 align="left">Languages:</h3>

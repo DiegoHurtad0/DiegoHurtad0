@@ -35,6 +35,38 @@ Linear Regression Model Representation & Implementation From Scratch using Pytho
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
 
+<br>
+<h1 align="center" href="https://medium.com/@diego.hurtado.olivares/predicting-taxi-fare-in-new-york-city-c5dd4aef55f4" > Predict Taxi Fare in NY using Machine Learning Techniques </h1>
+
+<a href="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python" target="blank"><img height="460" width="460" align="right" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*6xnHYe__u8xiJWm_KsWgMw.png" /></a>
+
+<h3 align="left">Summary:</h3>
+Linear Regression Model Representation & Implementation From Scratch using Python
+<h3 align="left">Check it here:</h3>
+<a href="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<a href="https://medium.com/@diego.hurtado.olivares/linear-regression-from-scratch-15bfd15dc2e" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<br>
+</p>
+ 
+<h3 align="left">Languages:</h3>
+<a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<br>
+</p>
+<h3 align="left">Data Science Tools:</h3>
+<img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="seaborn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+<img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://geopandas.org/en/stable/_images/geopandas_icon_green.png" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+
+<h3 align="left">Data Visualization Tools: </h3>
+<img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+<br>
+
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+
 <h1 align="center" href="https://medium.com/towards-data-science/covid-19-an-overview-of-mexico-ccf702ec80d9/" > Data analysis of covid in Mexico: </h1>
 
 <p>

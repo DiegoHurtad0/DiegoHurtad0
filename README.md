@@ -134,11 +134,39 @@ An in-depth look at the spread of covid-19 in North America
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
  
-<br>
-<br>
-<br>
+ <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+ 
+ 
+ <h1 align="left"> Machine Learning Models From Scratch in Python </h1>
+ 
 
+<a href="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python" target="blank"><img height="460" width="460" align="right" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*JvGyX0soGjUNgUPZfoU6eQ.png" /></a>
+
+<h3 align="left">Summary:</h3>
+▪️ XGBoostRegressor
+ 
+▪️ RandomForestRegressor
+ 
+▪️ DecisionTreeRegressor
+ 
+<h3 align="left">Check it here:</h3>
+<a href="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<a href="https://medium.com/@diego.hurtado.olivares/linear-regression-from-scratch-15bfd15dc2e" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<br>
+</p>
+ 
+<h3 align="left">Languages:</h3>
+<a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<br>
+</p>
+<h3 align="left">Data Science Tools:</h3>
+Numpy
+<img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+
+<br>
+<br>
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+
 
 <br>
 <h1 align="center" href="https://medium.com/towards-data-science/make-a-covid-19-choropleth-map-in-mapbox-5c93ac86e907"> Covid 19 Choropleth Map </h1>

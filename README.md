@@ -135,6 +135,41 @@ An in-depth look at the spread of covid-19 in North America
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
  
  <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+
+<h1 align="center" href="https://medium.com/towards-data-science/covid-19-coronavirus-top-ten-most-affected-countries-c165171c50d7" > Traveling Salesperson Problem </h1>
+
+
+<a href="https://medium.com/towards-data-science/covid-19-coronavirus-top-ten-most-affected-countries-c165171c50d7" target="blank"><img height="460" width="460" align="right" src="https://github.com/DiegoHurtad0/USA-Traveling-Salesman-Tour/raw/main/output/USATravelingSalesmanProblem.png?raw=true?raw=true" /></a>
+
+<h3 align="left">Summary:</h3>
+Efficient route planning for travelling salesman problem for 48 USA States
+
+<h3 align="left">Check it here:</h3>
+<a href="https://medium.com/towards-data-science/covid-19-coronavirus-top-ten-most-affected-countries-c165171c50d7" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<br>
+<h3 align="left">Languages:</h3>
+<a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="diego o'hurtado" height="30" width="40" /></a>
+</p>
+
+  
+<h3 align="left">Data Science Tools:</h3>
+
+<img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="seaborn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+<img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://geopandas.org/en/stable/_images/geopandas_icon_green.png" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+
+
+<h3 align="left">Data Visualization Tools: </h3>
+
+<img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+ 
+ <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+ 
  
  
  <h1 align="left"> Machine Learning Regression Models From Scratch in Python </h1>

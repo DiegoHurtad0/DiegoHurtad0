@@ -101,6 +101,35 @@ Linear Regression Model Representation & Implementation From Scratch using Pytho
 <br>
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+ 
+<h1 align="center" href="https://medium.com/p/b088390ce0f0" > Customer Churn Prediction Using Machine Learning Models: </h1>
+
+<p>
+  <a href="https://medium.com/p/b088390ce0f0"><img width="500" height="500" align='right' src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*iX7VFtO1XmKuNhzk4ddg7A.png"></a>
+</p>
+
+<h3 align="left">Summary:</h3>
+ 
+▪️ Predict whether a customer will churn using machine learning models
+
+<h3 align="left">Check it here:</h3>
+<a href="https://medium.com/p/b088390ce0f0" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<br>
+<h3 align="left">Languages:</h3>
+<a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<br>
+<h3 align="left">Data Science Tools:</h3>
+<img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="seaborn" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+<img src="https://geopandas.org/en/stable/_images/geopandas_icon_green.png" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<h3 align="left">Data Visualization Tools: </h3>
+<img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="plotly2" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap2" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+<br>
+
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+ 
 
 <h1 align="center" href="https://medium.com/towards-data-science/covid-19-coronavirus-top-ten-most-affected-countries-c165171c50d7" > Data Analysis of the COVID-19 pandemic in North America </h1>
 

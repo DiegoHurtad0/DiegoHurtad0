@@ -166,7 +166,7 @@ An in-depth look at the spread of covid-19 in North America
  
  <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
  
-<h1 align="center" href="https://medium.com/towards-data-science/covid-19-coronavirus-top-ten-most-affected-countries-c165171c50d7" > Data Exploration on Amsterdam Airbnb </h1>
+<h1 align="center" href="https://github.com/DiegoHurtad0/Data-Exploration-on-Amsterdam-Airbnb" > Data Exploration on Amsterdam Airbnb </h1>
 
 
 <a href="https://medium.com/towards-data-science/covid-19-coronavirus-top-ten-most-affected-countries-c165171c50d7" target="blank"><img height="460" width="460" align="right" src="https://github.com/DiegoHurtad0/Data-Exploration-on-Amsterdam-Airbnb/blob/main/figures/app.png?raw=true" /></a>
@@ -175,7 +175,7 @@ An in-depth look at the spread of covid-19 in North America
 Data Exploration on Amsterdam Airbnb
 
 <h3 align="left">Check it here:</h3>
-<a href="https://medium.com/towards-data-science/covid-19-coronavirus-top-ten-most-affected-countries-c165171c50d7" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<a href="https://github.com/DiegoHurtad0/Data-Exploration-on-Amsterdam-Airbnb" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
 <br>
 <h3 align="left">Languages:</h3>
 <a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
@@ -200,7 +200,7 @@ Data Exploration on Amsterdam Airbnb
  
  <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
 
-<h1 align="center" href="https://medium.com/towards-data-science/covid-19-coronavirus-top-ten-most-affected-countries-c165171c50d7" > Traveling Salesperson Problem </h1>
+<h1 align="center" href="https://github.com/DiegoHurtad0/USA-Traveling-Salesman-Tour" > Traveling Salesperson Problem </h1>
 
 
 <a href="https://medium.com/towards-data-science/covid-19-coronavirus-top-ten-most-affected-countries-c165171c50d7" target="blank"><img height="460" width="460" align="right" src="https://github.com/DiegoHurtad0/USA-Traveling-Salesman-Tour/raw/main/output/USATravelingSalesmanProblem.png?raw=true?raw=true" /></a>
@@ -242,6 +242,7 @@ Efficient route planning for travelling salesman problem for 48 USA States
 <a href="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python" target="blank"><img height="460" width="460" align="right" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*JvGyX0soGjUNgUPZfoU6eQ.png" /></a>
 
 <h3 align="left">Summary:</h3>
+
 ▪️ XGBoostRegressor
  
 ▪️ RandomForestRegressor

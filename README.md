@@ -6,7 +6,7 @@
 <br>
 <h1 align="center" href="https://medium.com/@diego.hurtado.olivares/linear-regression-from-scratch-15bfd15dc2e" > Linear Regression Model Representation & Implementation From Scratch in Python </h1>
 
-<a href="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python" target="blank"><img height="460" width="460" align="right" src="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python/blob/main/Figures/regression_result1.png?raw=true" /></a>
+<a href="https://www.kaggle.com/code/diegohurtadoo/house-price-prediction-top-12-leaderboard" target="blank"><img height="460" width="460" align="right" src="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python/blob/main/Figures/regression_result1.png?raw=true" /></a>
 
 <h3 align="left">Summary:</h3>
 Linear Regression Model Representation & Implementation From Scratch using Python

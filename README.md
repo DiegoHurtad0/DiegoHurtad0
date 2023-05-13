@@ -33,6 +33,13 @@ Linear Regression Model Representation & Implementation From Scratch using Pytho
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
 
 <br>
+<br>
+ 
+ 
+| Challenge           | Models                | Ranking        | People Ranking   |
+|---------------------|-----------------------|----------------|---------|
+| House Price Prediction | Stacking Models   | Top 3%        |   Top 97 /  4651 |
+| House Price Prediction | XGBoost, LightGBM    | Top 12%        |     |
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
 

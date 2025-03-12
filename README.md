@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Diego Gustavo Hurtado Olivares </h1>
+<h1 align="center">Hi, I'm Diego Hurtado </h1>
 <h3 align="center">I love creating visually appealing and interactive data visualizations that drive action within the business needs. Highly skilled in machine learning, data visualization, and creative thinking</h3>
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->

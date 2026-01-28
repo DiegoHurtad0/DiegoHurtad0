@@ -1,5 +1,53 @@
-<h1 align="center">Hi, I'm Diego O’Hurtado </h1>
-<h3 align="center">I love creating visually appealing and interactive data visualizations that drive action within the business needs. Highly skilled in machine learning, data visualization, and creative thinking</h3>
+<h1 align="center">Hi, I'm Diego O’Hurtado 👋</h1>
+<h3 align="center">Senior Data Scientist & Machine Learning Engineer</h3>
+<h4 align="center">GenAI | RAG Architectures | MLOps | Cloud Engineering</h4>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-hurtado-olivares/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@diego.hurtado.olivares" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/diegohurtadoo" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+</p>
+
+<br>
+
+<h3>🚀 Professional Summary</h3>
+<p>
+I am a <strong>Senior Data Scientist and Machine Learning Engineer</strong> with <strong>8+ years of experience</strong> delivering production-grade ML solutions for Fortune 500 companies like <strong>Walmart, DHL, and Huawei</strong>. 
+</p>
+<p>
+My expertise lies in the intersection of <strong>Ads-Tech, Retail, and Supply Chain</strong>, where I focus on delivering scalable ML pipelines, AI recommendation systems, and converting Generative AI (GenAI) into actionable business roadmaps.
+</p>
+
+<h3>🏆 Key Impact Highlights</h3>
+<ul>
+  <li><strong>💰 $40M Revenue Increase:</strong> Spearheaded AI-powered market mix models at Huawei.</li>
+  <li><strong>📈 10% CTR Uplift:</strong> Optimized product relevance personalization algorithms at Walmart.</li>
+  <li><strong>⚡ 30% Efficiency Gain:</strong> Deployed predictive analytics for logistics optimization at DHL.</li>
+  <li><strong>🧠 GenAI & RAG:</strong> Currently engineering Dense Vector Retrieval systems and LLM-based personalization to boost AdSense ROI by 8%.</li>
+</ul>
+
+<h3>🛠 Tech Stack & Skills</h3>
+
+<table>
+  <tr>
+    <td align="center"><strong>GenAI & ML Stack</strong></td>
+    <td align="center">LlamaIndex, LangChain, RAG, Hugging Face, OpenAI, SentenceTransformers, BERT, GPT, Prompt Engineering</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud & Orchestration</strong></td>
+    <td align="center">GCP (BigQuery, Vertex AI), AWS, Azure, Docker, Kubernetes, Terraform, Airflow, Databricks, MLflow</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Languages & Core</strong></td>
+    <td align="center">Python, SQL, PySpark, Bash, FastAPI, Pytest, Git</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Data Viz</strong></td>
+    <td align="center">Plotly Dash, Streamlit, Looker, Tableau, PowerBI</td>
+  </tr>
+</table>
+
+<br>
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
 

@@ -52,6 +52,10 @@ My expertise lies in the intersection of <strong>Ads-Tech, Retail, and Supply Ch
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
 
 <br>
+<img src="https://github.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/blob/main/assets/divide.png" width="100%" height="5px">
+<br>
+
+<br>
 
 <h1 align="center">Gemma 3 1B Reasoning Fine-Tuning with Tunix (LoRA SFT → GRPO)</h1>
 <h3 align="center">Strict XML Output Contract • Kaggle TPU–stable • Judge-ready inference wrapper</h3>
@@ -184,9 +188,230 @@ The key win is eliminating judge-visible format failures via deterministic stric
 
 <br>
 
-<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+
+
+<br>
+
+<h1 align="center">Offline Multimodal Clinical Triage Copilot (MedGemma 1.5)</h1>
+<h3 align="center">Evidence‑first • Offline‑first • Auditable PDF • Single T4‑class GPU</h3>
+
+<a href="https://www.kaggle.com/code/diegohurtadoo/multimodal-clinical-reasoning-agent" target="_blank">
+  <img width="460" align="right" src="https://raw.githubusercontent.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/main/assets/Multimodal_Triage_Dashboard.png" alt="FieldScribe UI dashboard" />
+</a>
+
+<h3 align="left">Summary</h3>
+
+<p align="left">
+<strong>FieldScribe</strong> is an <strong>offline‑first, evidence‑anchored triage copilot</strong> that:
+(1) localizes chest X‑ray findings, (2) detects interval change (Δ heatmap), (3) compresses FHIR‑shaped EHR context into auditable facts, and (4) exports a clinician‑readable <strong>triage report + tamper‑evident PDF</strong>.
+</p>
+
+<ul>
+  <li><strong>Offline-first:</strong> Runs on-prem / edge once weights & assets are present (no cloud dependency at inference time).</li>
+  <li><strong>Evidence-first UX:</strong> Always renders images + Δ heatmap + extracted facts alongside the narrative output.</li>
+  <li><strong>MedGemma-powered:</strong> Uses <strong>MedGemma 1.5 4B IT</strong> for multimodal synthesis (CXR + EHR).</li>
+  <li><strong>Safety guardrails:</strong> DICOM routing interlock prevents patient mismatches from entering synthesis.</li>
+  <li><strong>Auditability:</strong> Structured JSON audit packet + <strong>Unicode-safe</strong> PDF export (ReportLab).</li>
+  <li><strong>Feasibility instrumentation:</strong> Logs latency, peak VRAM, and token counts (ablation table in notebook).</li>
+</ul>
+
+<br>
+
+<h3 align="left">Check it here</h3>
+
+<a href="https://github.com/DiegoHurtad0" target="_blank">
+  <img align="left" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="30" width="40" />
+</a>
+
+<a href="https://www.kaggle.com/code/diegohurtadoo/multimodal-clinical-reasoning-agent" target="_blank">
+  <img align="left" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" height="30" width="40" />
+</a>
+
+<a href="https://youtu.be/dl6Aq4TugQk" target="_blank">
+  <img align="left" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="30" width="40" />
+</a>
+
+<br>
+<br>
+
+<h3 align="left">Languages</h3>
+<img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="30" width="40" />
+<br>
+<br>
+
+<h3 align="left">GenAI / ML Stack</h3>
+<img src="https://img.shields.io/badge/MedGemma%201.5-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white"/>
+<img src="https://img.shields.io/badge/FHIR-0B5FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DICOM-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ReportLab-PDF%20Export-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kaggle%20GPU-T4%20Edge%20Target-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+
+<br>
+<br>
+
+<h3 align="left">Key Visual Evidence (from the final run)</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/main/assets/Clinical_Pipeline_Architecture.png" width="32%" alt="Clinical pipeline architecture"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/main/assets/Agent_Demo.png" width="32%" alt="Fact filter context compression"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/main/assets/Longitudinal_CXR_Delta_Heatmap.png" width="32%" alt="CXR baseline/localization/delta heatmap"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/main/assets/Safety_Guardrails_and_Audit_Trace.png" width="49%" alt="DICOM routing decision tree"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/main/assets/Multimodal_Triage.png" width="49%" alt="Edge vs cloud triage architecture"/>
+</p>
+
+<br>
+
+<h3 align="left">Impact Snapshot</h3>
+
+<ul>
+  <li><strong>Time saved per complex triage case:</strong> ~10–14 minutes (manual EHR review + prior comparison + note drafting → evidence-first workflow).</li>
+  <li><strong>Capacity reclaimed (example):</strong> 40 cases/day × 10 min/case ≈ <strong>6.7 clinician hours/day</strong> returned to care.</li>
+  <li><strong>Access + privacy:</strong> Enables multimodal assistance in bandwidth-limited or sovereignty-restricted settings.</li>
+</ul>
+
+<br>
+
+| Challenge / Track | Base Model | Deployment Target | Evidence / Audit Artifacts | Key Proof |
+|------------------|-----------:|------------------|----------------------------|----------|
+| Kaggle MedGemma Impact Challenge | MedGemma 1.5 4B IT | Single T4‑class GPU (edge) | Δ heatmap + fact bullets + JSON audit + PDF | Offline-first, evidence-anchored triage workflow |
+
+<br>
+
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+
+---
+
+# Why this project matters (Problem : Product)
+
+In many clinical environments, the bottleneck isn’t “can AI answer medical questions?” — it’s **last‑mile triage under severe operational constraints**:
+
+- **Intermittent connectivity:** rural clinics, mobile units, disaster response, overcrowded EDs can’t rely on cloud uptime.
+- **Strict data sovereignty:** PHI often cannot leave the site or cross borders.
+- **Fragmented evidence:** images, EHR facts, and priors exist — but clinicians must fuse them under intense time pressure.
+
+FieldScribe targets a concrete workflow: **longitudinal chest X‑ray (CXR) interval change triage** where a clinician must:
+1) detect what changed,  
+2) localize it,  
+3) reconcile with EHR context, and  
+4) write an auditable note.
+
+> **Status:** Research / demo prototype.  
+> **Safety:** Not a medical device. Outputs require clinician verification.
+
+---
+
+## Demo visuals (place these under `assets/`)
+
+This README expects the following files under `assets/`:
+
+- `Multimodal_Triage.jpeg`
+- `Clinical_Pipeline_Architecture.png`
+- `Multimodal_Triage_Dashboard.png`
+- `Agent_Demo.jpeg`
+- `Longitudinal_CXR_Delta_Heatmap.png`
+- `Safety_Guardrails_and_Audit_Trace.jpeg`
+- `Auditable_Clinical_Summary_Report.pdf`
+
+### Edge vs Cloud (why offline-first)
+
+![Edge vs Cloud](https://raw.githubusercontent.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/main/assets/Multimodal_Triage.png)
+
+### 4‑step pipeline overview
+
+![Pipeline](https://raw.githubusercontent.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/main/assets/Clinical_Pipeline_Architecture.png)
+
+### Offline dashboard UI (Gradio)
+
+![Dashboard](https://raw.githubusercontent.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/main/assets/Multimodal_Triage_Dashboard.png)
+
+### Evidence panel (baseline → localization → delta heatmap)
+
+![CXR evidence panel](https://raw.githubusercontent.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/main/assets/Longitudinal_CXR_Delta_Heatmap.png)
+
+### Fact filtering (EHR context compression)
+
+![Fact filter](https://raw.githubusercontent.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/main/assets/Agent_Demo.png)
+
+### Safety routing + audit posture (DICOM interlock)
+
+![Fact filter](https://github.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/blob/main/assets/Safety_Guardrails_and_Audit_Trace.png)
+
+### Sample output artifact (PDF)
+
+➡️ **Download the example PDF:** [Auditable_Clinical_Summary_Report.pdf](https://github.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/blob/main/assets/Auditable_Clinical_Summary_Report.pdf)
+
+---
+
+## What I built (Recruiter‑focused)
+
+### 1) Data ingestion + Fact Filtering (EHR)
+- Accepts an **offline FHIR‑shaped EHR bundle** (JSON).
+- Runs a **Fact Filter** stage that compresses dense EHR into **query‑relevant bullet facts** (non‑inventive, audit‑friendly).
+- Goal: keep the LLM context window **clean**, reduce hallucinations, preserve traceability.
+
+### 2) Visual comparison + Δ heatmap (CXR)
+- Computes an **interval change heatmap** (current vs prior CXR).
+- Produces a visual evidence panel clinicians can inspect immediately (value even before text generation).
+
+### 3) MedGemma multimodal synthesis (AI reasoning engine)
+- Uses **MedGemma 1.5 4B IT** as the multimodal model for:
+  - longitudinal imaging review
+  - anatomical localization / grounding
+  - EHR‑informed synthesis
+- Runs **deterministic inference** (`do_sample=False`) for reproducibility; optionally exposes a “glass‑box” trace in the UI.
+
+### 4) Triage report + PDF export (paper trail)
+- Generates an executive triage summary and a **FHIR‑shaped audit packet**.
+- Exports a **Unicode‑safe PDF** (ReportLab) with evidence images, trace metadata, and disclaimers.
+
+---
+
+## Engineering highlights
+
+- **Offline‑first design:** works without external service calls once weights/assets are present.
+- **Run‑all notebook reproducibility:** deterministic settings + auto‑reset YAML config pattern.
+- **Safety interlock:** DICOM header routing prevents mismatched patient context from entering synthesis.
+- **Performance instrumentation:** captures latency, output tokens, and peak VRAM across ablations.
+- **Clinician-style UX:** evidence surfaced alongside narrative output.
+
+---
+
+## Performance & feasibility
+
+- Target: **single Tesla T4‑class GPU** (edge deployable).
+- Includes:
+  - **Warmup** after model load to reduce first‑click latency spikes.
+  - **Fast Mode** to cap tokens / reduce context while preserving evidence‑first outputs.
+  - **Ablation table** logging: latency (s), output tokens, peak VRAM (MB)
+
+> Example observed in demo screenshot: **Peak VRAM during visualization ≈ 3092 MB** (heatmap + panel rendering).  
+> Exact measurements depend on runtime + model caching; see the notebook’s feasibility section.
+
+
+---
+
+## Disclaimer
+
+FieldScribe is a demonstration prototype. It is **not** a regulated medical device and **must not** be used for definitive diagnosis or treatment decisions. Always defer to qualified clinical judgment and local protocols.
+
+
+
+
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+
+<br>
+<img src="https://github.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/blob/main/assets/divide.png" width="100%" height="5px">
+<br>
+
 
 <br>
 <h1 align="center" href="https://medium.com/@diego.hurtado.olivares/linear-regression-from-scratch-15bfd15dc2e" > Linear Regression Model Representation & Implementation From Scratch in Python </h1>
@@ -231,6 +456,11 @@ Linear Regression Model Representation & Implementation From Scratch using Pytho
  <br>
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+
+
+<br>
+<img src="https://github.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/blob/main/assets/divide.png" width="100%" height="5px">
+<br>
  
  <h1 align="center" href="https://medium.com/p/b088390ce0f0" > Customer Churn Prediction Using Machine Learning Models: </h1>
 

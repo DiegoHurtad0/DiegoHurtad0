@@ -52,6 +52,143 @@ My expertise lies in the intersection of <strong>Ads-Tech, Retail, and Supply Ch
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
 
 <br>
+
+<h1 align="center">Gemma 3 1B Reasoning Fine-Tuning with Tunix (LoRA SFT → GRPO)</h1>
+<h3 align="center">Strict XML Output Contract • Kaggle TPU–stable • Judge-ready inference wrapper</h3>
+
+<a href="https://github.com/DiegoHurtad0/gemma-tunix-production" target="_blank">
+  <img height="460" width="460" align="right" src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/training_dashboard_smoothed.png" />
+</a>
+
+<h3 align="left">Summary:</h3>
+
+<p align="left">
+This project documents a <strong>production-grade reasoning fine-tuning pipeline</strong> for <strong>Gemma 3 1B Instruct</strong> using <strong>Tunix (JAX)</strong> on Kaggle TPUs.  
+The core goal is <strong>judge robustness</strong>: ensure the model emits a machine-parseable output schema every time:
+</p>
+
+<pre>
+&lt;reasoning&gt;...&lt;/reasoning&gt;
+&lt;answer&gt;...&lt;/answer&gt;
+</pre>
+
+<ul>
+  <li><strong>Stage 1 — LoRA SFT:</strong> Seeds strict XML format + instruction-following behavior.</li>
+  <li><strong>Stage 2 — GRPO:</strong> Reinforcement learning with composite rewards (format + task quality + stability).</li>
+  <li><strong>Judge-safe inference wrapper:</strong> Deterministic repair + escaping guarantees strict XML for evaluation.</li>
+  <li><strong>Systems reliability:</strong> OOM-safe GRPO defaults, KV-cache sizing guarantees, and Tunix 0.1.6 concat-safe rollout batching.</li>
+  <li><strong>Evaluation harness:</strong> Quant metrics, qualitative before/after, and TensorBoard-derived training curves.</li>
+</ul>
+
+<br>
+
+<h3 align="left">Check it here:</h3>
+
+<a href="https://github.com/DiegoHurtad0/gemma-tunix-production" target="_blank">
+  <img align="left" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="30" width="40" />
+</a>
+
+<!-- Optional: add Kaggle notebook + YouTube once you publish them -->
+<!--
+<a href="YOUR_KAGGLE_NOTEBOOK_URL" target="_blank">
+  <img align="left" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" height="30" width="40" />
+</a>
+
+<a href="YOUR_YOUTUBE_VIDEO_URL" target="_blank">
+  <img align="left" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="30" width="40" />
+</a>
+-->
+
+<br>
+<br>
+
+<h3 align="left">Languages:</h3>
+<a href="" target="_blank">
+  <img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="30" width="40" />
+</a>
+<br>
+<br>
+
+<h3 align="left">GenAI / ML Stack:</h3>
+<img src="https://img.shields.io/badge/Gemma%203-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tunix-JAX%20Native-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LoRA-SFT-6E56CF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GRPO-Reinforcement%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kaggle%20TPU-Stability%20Engineering-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+
+<br>
+<br>
+
+<h3 align="left">Key Visual Evidence (from the final run):</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/token_length_engineering.png" width="32%"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/before_after_xml_validity.png" width="32%"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/before_after_reasoning_depth.png" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/dataset_mixture_vibe_check.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/sequence_length_analysis.png" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/vibe_shift_density.png" width="70%"/>
+</p>
+
+<br>
+
+<h3 align="left">Results Snapshot (Smoke Test):</h3>
+<p align="left">
+These are small-N smoke tests designed to catch regressions early (format breaks, empty outputs, instability).
+The key win is eliminating judge-visible format failures via deterministic strict-XML repair.
+</p>
+
+<ul>
+  <li><strong>Strict XML validity (raw generation):</strong> 40.00% (8/20)</li>
+  <li><strong>Strict XML validity (after deterministic repair):</strong> 100.00% (20/20)</li>
+  <li><strong>Math exact match (normalized, repaired):</strong> 15.00% (3/20)</li>
+</ul>
+
+<br>
+
+<h3 align="left">Production-Grade</h3>
+
+<ul>
+  <li><strong>Contract-first design:</strong> strict output schema enforced in prompt, rewards, and inference wrapper.</li>
+  <li><strong>Tunix 0.1.6 stability engineering:</strong> concat-safe rollout batching + KV-cache correctness guarantees.</li>
+  <li><strong>OOM-safe GRPO defaults:</strong> conservative microbatch/generations/kv-extra to finish reliably on Kaggle TPUs.</li>
+  <li><strong>Judge-friendly evaluation:</strong> before/after tables + training curves + token budget proof.</li>
+  <li><strong>Reproducibility:</strong> config-driven pipeline + deterministic inference settings (INF_TOP_P=None for greedy).</li>
+</ul>
+
+<br>
+
+<h3 align="left">Extra Evaluation Artifacts (selected)</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/cell66_19-1-visualization-training-curves-from-tensorboard-event-fi_1.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/cell66_19-1-visualization-training-curves-from-tensorboard-event-fi_4.png" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/cell67_19-1-visualization-winning-training-dashboard-smoothed-trend_1.png" width="70%"/>
+</p>
+
+<br>
+
+| Challenge / Track | Base Model | Training Strategy | Output Contract | Key Proof |
+|------------------|-----------:|------------------|----------------|----------|
+| Google Tunix Hackathon (Reasoning Traces) | Gemma 3 1B IT | LoRA SFT → GRPO (reward shaping) | Strict XML: `<reasoning>` + `<answer>` | 100% strict XML post-repair + full eval artifacts |
+
+<br>
+
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
+
+<br>
 <h1 align="center" href="https://medium.com/@diego.hurtado.olivares/linear-regression-from-scratch-15bfd15dc2e" > Linear Regression Model Representation & Implementation From Scratch in Python </h1>
 
 <a href="https://www.kaggle.com/code/diegohurtadoo/house-price-prediction-top-12-leaderboard" target="blank"><img height="460" width="460" align="right" src="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python/blob/main/Figures/regression_result1.png?raw=true" /></a>

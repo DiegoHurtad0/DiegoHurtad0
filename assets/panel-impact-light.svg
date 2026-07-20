@@ -1,0 +1,88 @@
+<svg width="1280" height="500" viewBox="0 0 1280 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .head { font: 600 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6B7280; letter-spacing: 3.5px; }
+    .rail { font: 600 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #9CA3AF; letter-spacing: 4px; }
+    .num  { font: 700 48px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #111117; letter-spacing: -1.5px; }
+    .numS { font: 700 38px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #111117; letter-spacing: -1px; }
+    .mlbl { font: 600 10.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6B7280; letter-spacing: 2.5px; }
+    .desc { font: 400 12.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #5B6172; letter-spacing: 0.2px; }
+    .co   { font: 600 11px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #6E56CF; letter-spacing: 1.5px; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F5F3FC"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6E56CF"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#111117" stroke-opacity="0.025" fill="none"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.75" r="0.5">
+      <stop offset="0%" stop-color="#6E56CF" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#6E56CF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="500" fill="url(#bg)"/>
+  <rect width="1280" height="500" fill="url(#grid)"/>
+  <rect width="1280" height="500" fill="url(#glow)"/>
+
+  <!-- header -->
+  <text x="84" y="58" class="head">04 — IMPACT AT A GLANCE</text>
+  <line x1="290" y1="53" x2="1196" y2="53" stroke="#111117" stroke-opacity="0.08"/>
+  <text x="1236" y="260" transform="rotate(-90 1236 260)" class="rail" text-anchor="end">04&#160;/&#160;IMPACT</text>
+
+  <!-- grid separators -->
+  <line x1="444" y1="100" x2="444" y2="444" stroke="#111117" stroke-opacity="0.09"/>
+  <line x1="824" y1="100" x2="824" y2="444" stroke="#111117" stroke-opacity="0.09"/>
+  <line x1="84" y1="268" x2="1196" y2="268" stroke="#111117" stroke-opacity="0.08"/>
+
+  <!-- row 1 · col 1 : Huawei -->
+  <text x="84" y="148" class="num">$40M</text>
+  <text x="86" y="174" class="mlbl">INCREMENTAL REVENUE</text>
+  <text x="86" y="200" class="desc">Geospatial Network Allocation model for site</text>
+  <text x="86" y="218" class="desc">expansion — maximizing commercial ROI and NPS</text>
+  <text x="86" y="246" class="co">@ HUAWEI</text>
+
+  <!-- row 1 · col 2 : CVS Health -->
+  <text x="464" y="148" class="numS">−45% · −60%</text>
+  <text x="466" y="174" class="mlbl">LLM LATENCY · TOKEN COST</text>
+  <text x="466" y="200" class="desc">Deterministic middleware for a multi-agent IVR</text>
+  <text x="466" y="218" class="desc">platform serving millions of patients</text>
+  <text x="466" y="246" class="co">@ CVS HEALTH</text>
+
+  <!-- row 1 · col 3 : Walmart CTR -->
+  <text x="844" y="148" class="num">+10%</text>
+  <text x="846" y="174" class="mlbl">CLICK-THROUGH RATE</text>
+  <text x="846" y="200" class="desc">Learning-to-Rank objective in XGBoost across</text>
+  <text x="846" y="218" class="desc">billions of historical transactions</text>
+  <text x="846" y="246" class="co">@ WALMART</text>
+
+  <!-- row 2 · col 1 : OBMedia -->
+  <text x="84" y="336" class="num">+8%</text>
+  <text x="86" y="362" class="mlbl">ADVERTISER ROI</text>
+  <text x="86" y="388" class="desc">GenAI personalization engine — fine-tuned</text>
+  <text x="86" y="406" class="desc">Transformers optimizing AdSense relevance</text>
+  <text x="86" y="434" class="co">@ OBMEDIA</text>
+
+  <!-- row 2 · col 2 : DHL -->
+  <text x="464" y="336" class="num">+30%</text>
+  <text x="466" y="362" class="mlbl">OPERATIONAL EFFICIENCY</text>
+  <text x="466" y="388" class="desc">Predictive analytics for resource planning across</text>
+  <text x="466" y="406" class="desc">North American logistics networks</text>
+  <text x="466" y="434" class="co">@ DHL</text>
+
+  <!-- row 2 · col 3 : Walmart Recall -->
+  <text x="844" y="336" class="num">+25%</text>
+  <text x="846" y="362" class="mlbl">CROSS-SELLING RECALL@K</text>
+  <text x="846" y="388" class="desc">ML ranking architecture solving cold-start</text>
+  <text x="846" y="406" class="desc">recommendations at catalog scale</text>
+  <text x="846" y="434" class="co">@ WALMART</text>
+
+  <!-- footer -->
+  <line x1="84" y1="472" x2="1196" y2="472" stroke="#111117" stroke-opacity="0.08"/>
+  <path d="M40 32v-8h8M1232 24h8v8M40 468v8h8M1240 468v8h-8" stroke="#111117" stroke-opacity="0.16"/>
+</svg>

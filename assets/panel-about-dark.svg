@@ -1,0 +1,69 @@
+<svg width="1280" height="440" viewBox="0 0 1280 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .head  { font: 600 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #7C819A; letter-spacing: 3.5px; }
+    .rail  { font: 600 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #4E5266; letter-spacing: 4px; }
+    .st    { font: 800 40px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #F5F5F7; letter-spacing: -1.2px; }
+    .stg   { font: 800 40px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: url(#accent); letter-spacing: -1.2px; }
+    .serif { font: italic 400 18px Georgia, 'Times New Roman', serif; fill: #A6ABBE; letter-spacing: 0.2px; }
+    .flbl  { font: 600 10px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #6F7488; letter-spacing: 2.5px; }
+    .fval  { font: 500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #B7BCC9; letter-spacing: 0.2px; }
+    .proof { font: 500 13px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #9E8CFC; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0B13"/>
+      <stop offset="100%" stop-color="#131023"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6E56CF"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#FFFFFF" stroke-opacity="0.03" fill="none"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.15" cy="0.25" r="0.5">
+      <stop offset="0%" stop-color="#6E56CF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#6E56CF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="440" fill="url(#bg)"/>
+  <rect width="1280" height="440" fill="url(#grid)"/>
+  <rect width="1280" height="440" fill="url(#glow)"/>
+
+  <!-- header -->
+  <text x="84" y="58" class="head">03 — ABOUT</text>
+  <line x1="226" y1="53" x2="1196" y2="53" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  <text x="1236" y="240" transform="rotate(-90 1236 240)" class="rail" text-anchor="end">03&#160;/&#160;ABOUT</text>
+
+  <!-- editorial statement -->
+  <text x="84" y="142" class="st">Building AI that ships —</text>
+  <text x="84" y="192" class="stg">and moves the business.</text>
+
+  <!-- narrative -->
+  <text x="84" y="248" class="serif">Senior Data Scientist and AI/Machine Learning Engineer with 8+ years of</text>
+  <text x="84" y="276" class="serif">experience building and deploying production-scale AI solutions for top</text>
+  <text x="84" y="304" class="serif">Fortune 500 companies — as a contractor embedded with U.S. teams,</text>
+  <text x="84" y="332" class="serif">delivering measurable impact through ML, recommendations, and GenAI.</text>
+
+  <!-- proof lines -->
+  <circle cx="88" cy="376" r="2.5" fill="url(#accent)"/>
+  <text x="102" y="381" class="proof">multi-agent LLM platforms serving millions of patients</text>
+  <circle cx="88" cy="404" r="2.5" fill="url(#accent)"/>
+  <text x="102" y="409" class="proof">ranking systems trained on billions of transactions</text>
+
+  <!-- facts column -->
+  <line x1="800" y1="110" x2="800" y2="410" stroke="#FFFFFF" stroke-opacity="0.07"/>
+  <text x="836" y="136" class="flbl">EXPERIENCE</text>
+  <text x="836" y="160" class="fval">8+ years in production ML &amp; AI</text>
+  <text x="836" y="208" class="flbl">FOCUS</text>
+  <text x="836" y="232" class="fval">GenAI · Multi-Agent · RAG · RecSys · MLOps</text>
+  <text x="836" y="280" class="flbl">WORK MODEL</text>
+  <text x="836" y="304" class="fval">Contractor embedded with U.S. teams</text>
+  <text x="836" y="352" class="flbl">SCALE</text>
+  <text x="836" y="376" class="fval">Millions of users · Billions of transactions</text>
+
+  <!-- footer -->
+  <line x1="84" y1="428" x2="1196" y2="428" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  <path d="M40 32v-8h8M1232 24h8v8M40 408v8h8M1240 408v8h-8" stroke="#FFFFFF" stroke-opacity="0.14"/>
+</svg>

@@ -1,190 +1,279 @@
-<h1 align="center">Hi, I'm Diego O’Hurtado 👋</h1>
-<h3 align="center">Senior Data Scientist & Machine Learning Engineer</h3>
-<h4 align="center">GenAI | RAG Architectures | MLOps | Cloud Engineering</h4>
+<!-- Introduction-->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/diego-hurtado-olivares/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@diego.hurtado.olivares" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/diegohurtadoo" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Diego Hurtado — Senior Data Scientist · AI/ML Engineer. Production AI systems since 2016, Mexico City working with U.S. teams. I design and ship production-scale AI systems — multi-agent LLM platforms, RAG retrieval, and large-scale ranking engines — for Fortune 500 companies."/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/panel-proof-dark.svg">
+  <img src="assets/panel-proof-light.svg" width="100%" alt="Proof of work — 8+ years in production · 5× Fortune 500 companies · Millions of users served · Billions of transactions ranked. Trusted in production at CVS Health, Walmart, Huawei, DHL, Baxter."/>
+</picture>
+
+<p align="left">
+  <a href="https://www.diegohurtado.com/" target="_blank"><img src="assets/btn-portfolio.svg" height="44" alt="Visit Portfolio"/></a>
+  &nbsp;
+  <a href="mailto:diego.hurtado.olivares@gmail.com"><img src="assets/btn-contact.svg" height="44" alt="Get in Touch"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/diegohurtadoo/" target="_blank"><img src="assets/btn-linkedin.svg" height="36" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://medium.com/@diego.hurtado.olivares" target="_blank"><img src="assets/btn-medium.svg" height="36" alt="Medium"/></a>
+  &nbsp;
+  <a href="https://www.kaggle.com/diegohurtadoo" target="_blank"><img src="assets/btn-kaggle.svg" height="36" alt="Kaggle"/></a>
+</p>
+
+<p align="right">
+  <sub><b><a href="#-about-me">01&nbsp;ABOUT</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-impact-at-a-glance">02&nbsp;IMPACT</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-tech-stack--skills">03&nbsp;TECH&nbsp;STACK</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-professional-experience">04&nbsp;EXPERIENCE</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-featured-project--gemma-3-1b-reasoning-fine-tuning-with-tunix">05&nbsp;FEATURED&nbsp;PROJECT</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-education">06&nbsp;EDUCATION</a></b></sub>
 </p>
 
 <br>
 
-<h3>🚀 Professional Summary</h3>
-<p>
-I am a <strong>Senior Data Scientist and Machine Learning Engineer</strong> with <strong>8+ years of experience</strong> delivering production-grade ML solutions for Fortune 500 companies like <strong>Walmart, DHL, and Huawei</strong>. 
-</p>
-<p>
-My expertise lies in the intersection of <strong>Ads-Tech, Retail, and Supply Chain</strong>, where I focus on delivering scalable ML pipelines, AI recommendation systems, and converting Generative AI (GenAI) into actionable business roadmaps.
-</p>
+<!-- about me-->
 
-<h3>🏆 Key Impact Highlights</h3>
-<ul>
-  <li><strong>💰 $40M Revenue Increase:</strong> Spearheaded AI-powered market mix models at Huawei.</li>
-  <li><strong>📈 10% CTR Uplift:</strong> Optimized product relevance personalization algorithms at Walmart.</li>
-  <li><strong>⚡ 30% Efficiency Gain:</strong> Deployed predictive analytics for logistics optimization at DHL.</li>
-  <li><strong>🧠 GenAI & RAG:</strong> Currently engineering Dense Vector Retrieval systems and LLM-based personalization to boost AdSense ROI by 8%.</li>
-</ul>
+<a name="-about-me"></a>
 
-<h3>🛠 Tech Stack & Skills</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/panel-about-dark.svg">
+  <img src="assets/panel-about-light.svg" width="100%" alt="03 — About. Building AI that ships — and moves the business. Senior Data Scientist and AI/Machine Learning Engineer with 8+ years of experience building and deploying production-scale AI solutions for top Fortune 500 companies — as a contractor embedded with U.S. teams, delivering measurable impact through machine learning, recommendation systems, and Generative AI. Multi-agent LLM platforms serving millions of patients · Ranking systems trained on billions of transactions. Experience: 8+ years in production ML & AI · Focus: GenAI, Multi-Agent, RAG, RecSys, MLOps · Work model: contractor embedded with U.S. teams · Scale: millions of users, billions of transactions."/>
+</picture>
 
-<table>
+<br>
+
+<a name="-impact-at-a-glance"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/panel-impact-dark.svg">
+  <img src="assets/panel-impact-light.svg" width="100%" alt="04 — Impact at a Glance. $40M incremental revenue — Geospatial Network Allocation model for site expansion, maximizing commercial ROI and NPS, at Huawei. −45% LLM latency and −60% token cost — deterministic middleware for a multi-agent IVR platform serving millions of patients, at CVS Health. +10% click-through rate — Learning-to-Rank objective in XGBoost across billions of historical transactions, at Walmart. +8% advertiser ROI — GenAI personalization engine with fine-tuned Transformers optimizing AdSense relevance, at OBMedia. +30% operational efficiency — predictive analytics for resource planning across North American logistics networks, at DHL. +25% cross-selling Recall@K — ML ranking architecture solving cold-start recommendations at catalog scale, at Walmart."/>
+</picture>
+
+
+<!-- Stack-->
+
+<br>
+
+## 🛠 Tech Stack & Skills
+
+<table align="center">
   <tr>
-    <td align="center"><strong>GenAI & ML Stack</strong></td>
-    <td align="center">LlamaIndex, LangChain, RAG, Hugging Face, OpenAI, SentenceTransformers, BERT, GPT, Prompt Engineering</td>
+    <td align="center" width="22%"><strong>🧠 GenAI & ML Stack</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LlamaIndex-121212?style=flat-square" alt="LlamaIndex"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
+      <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-6E56CF?style=flat-square" alt="Multi-Agent Orchestration"/>
+      <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square" alt="RAG"/>
+      <img src="https://img.shields.io/badge/Embeddings-2D8CFF?style=flat-square" alt="Embeddings"/>
+      <img src="https://img.shields.io/badge/SentenceTransformers-2D8CFF?style=flat-square" alt="SentenceTransformers"/>
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/LLMs-10A37F?style=flat-square" alt="LLMs"/>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat-square" alt="Prompt Engineering"/>
+      <img src="https://img.shields.io/badge/Tunix-111111?style=flat-square" alt="Tunix"/>
+      <img src="https://img.shields.io/badge/vLLM-4B8BBE?style=flat-square" alt="vLLM"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Feast-F26722?style=flat-square" alt="Feast"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>Cloud & Orchestration</strong></td>
-    <td align="center">GCP (BigQuery, Vertex AI), AWS, Azure, Docker, Kubernetes, Terraform, Airflow, Databricks, MLflow</td>
+    <td align="center"><strong>☁️ Cloud & Orchestration</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/GCP%20·%20BigQuery%20·%20Vertex%20AI%20·%20ADK-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake"/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure"/>
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+      <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"/>
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+      <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white" alt="Ray"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+      <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo"/>
+      <img src="https://img.shields.io/badge/Prometheus%20%2F%20Grafana-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus / Grafana"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>Languages & Core</strong></td>
-    <td align="center">Python, SQL, PySpark, Bash, FastAPI, Pytest, Git</td>
+    <td align="center"><strong>💻 Languages & Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL"/>
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>Data Viz</strong></td>
-    <td align="center">Plotly Dash, Streamlit, Looker, Tableau, PowerBI</td>
+    <td align="center"><strong>📚 Data & ML Libraries</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+      <img src="https://img.shields.io/badge/XGBoost-EB0028?style=flat-square" alt="XGBoost"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow / Keras"/>
+      <img src="https://img.shields.io/badge/Spark%20MLlib-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark MLlib"/>
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
+      <img src="https://img.shields.io/badge/NLP-6E56CF?style=flat-square" alt="NLP"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🧪 Methodologies</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Recommendation%20Systems-111111?style=flat-square" alt="Recommendation Systems"/>
+      <img src="https://img.shields.io/badge/Collaborative%20Filtering-111111?style=flat-square" alt="Collaborative Filtering"/>
+      <img src="https://img.shields.io/badge/A%2FB%20Testing-111111?style=flat-square" alt="A/B Testing"/>
+      <img src="https://img.shields.io/badge/EDA-111111?style=flat-square" alt="EDA"/>
+      <img src="https://img.shields.io/badge/MLOps%20CI%2FCD%20Pipelines-111111?style=flat-square" alt="MLOps CI/CD"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📊 Data Visualization</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Plotly%20Dash%20%2F%20Flask-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly Dash / Flask"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square" alt="Power BI"/>
+      <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square" alt="Tableau"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+    </td>
   </tr>
 </table>
 
-<br>
-
-<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
-
-<br>
-<img src="https://github.com/DiegoHurtad0/Offline-Multimodal-Clinical-Triage-Powered-by-MedGemma/blob/main/assets/divide.png" width="100%" height="5px">
-<br>
+<!-- Project-->
 
 <br>
 
-<h1 align="center">Gemma 3 1B Reasoning Fine-Tuning with Tunix (LoRA SFT → GRPO)</h1>
-<h3 align="center">Strict XML Output Contract • Kaggle TPU–stable • Judge-ready inference wrapper</h3>
+<div align="center">
+
+## 🔬 Featured Project — Gemma 3 1B Reasoning Fine-Tuning with Tunix
+
+### LoRA SFT → GRPO
+
+**Strict XML Output Contract • Kaggle TPU–stable • Judge-ready inference wrapper**
+
+<br>
+
+<img src="https://img.shields.io/badge/Gemma%203-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemma 3"/>
+<img src="https://img.shields.io/badge/Tunix-JAX%20Native-111111?style=for-the-badge" alt="Tunix"/>
+<img src="https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white" alt="JAX"/>
+<img src="https://img.shields.io/badge/LoRA-SFT-6E56CF?style=for-the-badge" alt="LoRA SFT"/>
+<img src="https://img.shields.io/badge/GRPO-Reinforcement%20Learning-FF6F00?style=for-the-badge" alt="GRPO"/>
+<img src="https://img.shields.io/badge/Kaggle%20TPU-Stability%20Engineering-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle TPU"/>
+
+<br><br>
 
 <a href="https://github.com/DiegoHurtad0/gemma-tunix-production" target="_blank">
-  <img height="460" width="460" align="right" src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/training_dashboard_smoothed.png" />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
 
-<h3 align="left">Summary:</h3>
-
-<p align="left">
-This project documents a <strong>production-grade reasoning fine-tuning pipeline</strong> for <strong>Gemma 3 1B Instruct</strong> using <strong>Tunix (JAX)</strong> on Kaggle TPUs.  
-The core goal is <strong>judge robustness</strong>: ensure the model emits a machine-parseable output schema every time:
-</p>
-
-<pre>
-&lt;reasoning&gt;...&lt;/reasoning&gt;
-&lt;answer&gt;...&lt;/answer&gt;
-</pre>
-
-<ul>
-  <li><strong>Stage 1 — LoRA SFT:</strong> Seeds strict XML format + instruction-following behavior.</li>
-  <li><strong>Stage 2 — GRPO:</strong> Reinforcement learning with composite rewards (format + task quality + stability).</li>
-  <li><strong>Judge-safe inference wrapper:</strong> Deterministic repair + escaping guarantees strict XML for evaluation.</li>
-  <li><strong>Systems reliability:</strong> OOM-safe GRPO defaults, KV-cache sizing guarantees, and Tunix 0.1.6 concat-safe rollout batching.</li>
-  <li><strong>Evaluation harness:</strong> Quant metrics, qualitative before/after, and TensorBoard-derived training curves.</li>
-</ul>
+</div>
 
 <br>
 
-<h3 align="left">Check it here:</h3>
+### 📋 Summary
 
 <a href="https://github.com/DiegoHurtad0/gemma-tunix-production" target="_blank">
-  <img align="left" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="30" width="40" />
+  <img height="460" width="460" align="right" src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/training_dashboard_smoothed.png" alt="Training dashboard (smoothed)"/>
 </a>
 
-<!-- Optional: add Kaggle notebook + YouTube once you publish them -->
-<!--
-<a href="YOUR_KAGGLE_NOTEBOOK_URL" target="_blank">
-  <img align="left" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" height="30" width="40" />
-</a>
+This project documents a **production-grade reasoning fine-tuning pipeline** for **Gemma 3 1B Instruct** using **Tunix (JAX)** on Kaggle TPUs.
+The core goal is **judge robustness**: ensure the model emits a machine-parseable output schema every time:
 
-<a href="YOUR_YOUTUBE_VIDEO_URL" target="_blank">
-  <img align="left" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="30" width="40" />
-</a>
--->
+```xml
+<reasoning>...</reasoning>
+<answer>...</answer>
+```
 
-<br>
-<br>
+- **Stage 1 — LoRA SFT:** Seeds strict XML format + instruction-following behavior.
+- **Stage 2 — GRPO:** Reinforcement learning with composite rewards (format + task quality + stability).
+- **Judge-safe inference wrapper:** Deterministic repair + escaping guarantees strict XML for evaluation.
+- **Systems reliability:** OOM-safe GRPO defaults, KV-cache sizing guarantees, and Tunix 0.1.6 concat-safe rollout batching.
+- **Evaluation harness:** Quant metrics, qualitative before/after, and TensorBoard-derived training curves.
 
-<h3 align="left">Languages:</h3>
-<a href="" target="_blank">
-  <img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="30" width="40" />
-</a>
-<br>
-<br>
+**Languages:** &nbsp;<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="24" width="32" align="top"/> Python
 
-<h3 align="left">GenAI / ML Stack:</h3>
-<img src="https://img.shields.io/badge/Gemma%203-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tunix-JAX%20Native-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/LoRA-SFT-6E56CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GRPO-Reinforcement%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kaggle%20TPU-Stability%20Engineering-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+<br clear="right">
 
-<br>
-<br>
-
-<h3 align="left">Key Visual Evidence (from the final run):</h3>
+### 📊 Key Visual Evidence (from the final run)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/token_length_engineering.png" width="32%"/>
-  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/before_after_xml_validity.png" width="32%"/>
-  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/before_after_reasoning_depth.png" width="32%"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/token_length_engineering.png" width="32%" alt="Token length engineering"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/before_after_xml_validity.png" width="32%" alt="Before/after XML validity"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/before_after_reasoning_depth.png" width="32%" alt="Before/after reasoning depth"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/dataset_mixture_vibe_check.png" width="49%"/>
-  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/sequence_length_analysis.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/dataset_mixture_vibe_check.png" width="49%" alt="Dataset mixture vibe check"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/sequence_length_analysis.png" width="49%" alt="Sequence length analysis"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/vibe_shift_density.png" width="70%"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/vibe_shift_density.png" width="70%" alt="Vibe shift density"/>
 </p>
 
 <br>
 
-<h3 align="left">Results Snapshot (Smoke Test):</h3>
-<p align="left">
-These are small-N smoke tests designed to catch regressions early (format breaks, empty outputs, instability).
-The key win is eliminating judge-visible format failures via deterministic strict-XML repair.
-</p>
+### ✅ Results Snapshot (Smoke Test)
 
-<ul>
-  <li><strong>Strict XML validity (raw generation):</strong> 40.00% (8/20)</li>
-  <li><strong>Strict XML validity (after deterministic repair):</strong> 100.00% (20/20)</li>
-  <li><strong>Math exact match (normalized, repaired):</strong> 15.00% (3/20)</li>
-</ul>
+> These are small-N smoke tests designed to catch regressions early (format breaks, empty outputs, instability).
+> **The key win is eliminating judge-visible format failures via deterministic strict-XML repair.**
 
-<br>
+<div align="center">
 
-<h3 align="left">Production-Grade</h3>
+| Metric | Result | Detail |
+|:---|:---:|:---:|
+| **Strict XML validity** (raw generation) | 🟡 **40.00%** | 8 / 20 |
+| **Strict XML validity** (after deterministic repair) | 🟢 **100.00%** | 20 / 20 |
+| **Math exact match** (normalized, repaired) | ⚪ **15.00%** | 3 / 20 |
 
-<ul>
-  <li><strong>Contract-first design:</strong> strict output schema enforced in prompt, rewards, and inference wrapper.</li>
-  <li><strong>Tunix 0.1.6 stability engineering:</strong> concat-safe rollout batching + KV-cache correctness guarantees.</li>
-  <li><strong>OOM-safe GRPO defaults:</strong> conservative microbatch/generations/kv-extra to finish reliably on Kaggle TPUs.</li>
-  <li><strong>Judge-friendly evaluation:</strong> before/after tables + training curves + token budget proof.</li>
-  <li><strong>Reproducibility:</strong> config-driven pipeline + deterministic inference settings (INF_TOP_P=None for greedy).</li>
-</ul>
+</div>
 
 <br>
 
-<h3 align="left">Extra Evaluation Artifacts (selected)</h3>
+### 🏗 Production-Grade Engineering
+
+| | Practice | What it delivers |
+|:---:|:---|:---|
+| 📐 | **Contract-first design** | Strict output schema enforced in prompt, rewards, and inference wrapper |
+| 🔧 | **Tunix 0.1.6 stability engineering** | Concat-safe rollout batching + KV-cache correctness guarantees |
+| 🛡 | **OOM-safe GRPO defaults** | Conservative microbatch/generations/kv-extra to finish reliably on Kaggle TPUs |
+| ⚖️ | **Judge-friendly evaluation** | Before/after tables + training curves + token budget proof |
+| 🔁 | **Reproducibility** | Config-driven pipeline + deterministic inference settings (`INF_TOP_P=None` for greedy) |
+
+<br>
+
+<details>
+<summary><h3>🧪 Extra Evaluation Artifacts (selected) — click to expand</h3></summary>
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/cell66_19-1-visualization-training-curves-from-tensorboard-event-fi_1.png" width="49%"/>
-  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/cell66_19-1-visualization-training-curves-from-tensorboard-event-fi_4.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/cell66_19-1-visualization-training-curves-from-tensorboard-event-fi_1.png" width="49%" alt="TensorBoard training curves 1"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/cell66_19-1-visualization-training-curves-from-tensorboard-event-fi_4.png" width="49%" alt="TensorBoard training curves 2"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/cell67_19-1-visualization-winning-training-dashboard-smoothed-trend_1.png" width="70%"/>
+  <img src="https://raw.githubusercontent.com/DiegoHurtad0/gemma-tunix-production/main/assets/cell67_19-1-visualization-winning-training-dashboard-smoothed-trend_1.png" width="70%" alt="Winning training dashboard (smoothed trend)"/>
 </p>
 
+</details>
+
 <br>
+
+### 🏁 Challenge Summary
 
 | Challenge / Track | Base Model | Training Strategy | Output Contract | Key Proof |
-|------------------|-----------:|------------------|----------------|----------|
-| Google Tunix Hackathon (Reasoning Traces) | Gemma 3 1B IT | LoRA SFT → GRPO (reward shaping) | Strict XML: `<reasoning>` + `<answer>` | 100% strict XML post-repair + full eval artifacts |
+|:---|:---:|:---|:---|:---|
+| **Google Tunix Hackathon** (Reasoning Traces) | Gemma 3 1B IT | LoRA SFT → GRPO (reward shaping) | Strict XML: `<reasoning>` + `<answer>` | 100% strict XML post-repair + full eval artifacts |
 
 <br>
 

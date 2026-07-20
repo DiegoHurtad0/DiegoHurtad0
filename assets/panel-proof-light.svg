@@ -1,0 +1,68 @@
+<svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .head  { font: 600 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6B7280; letter-spacing: 3.5px; }
+    .rail  { font: 600 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #9CA3AF; letter-spacing: 4px; }
+    .stat  { font: 700 54px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #111117; letter-spacing: -2px; }
+    .statw { font: 700 32px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #111117; letter-spacing: -0.5px; }
+    .statl { font: 600 10.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6B7280; letter-spacing: 2.5px; }
+    .tlbl  { font: 600 11.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8A8FA3; letter-spacing: 2.5px; }
+    .co    { font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #52586B; letter-spacing: 3px; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F5F3FC"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6E56CF"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#111117" stroke-opacity="0.025" fill="none"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <rect width="1280" height="300" fill="url(#grid)"/>
+
+  <!-- header -->
+  <text x="84" y="58" class="head">02 — PROOF OF WORK</text>
+  <line x1="286" y1="53" x2="1196" y2="53" stroke="#111117" stroke-opacity="0.08"/>
+  <text x="1236" y="200" transform="rotate(-90 1236 200)" class="rail" text-anchor="end">02&#160;/&#160;PROOF</text>
+
+  <!-- stat columns -->
+  <text x="84" y="132" class="stat">8+</text>
+  <text x="86" y="158" class="statl">YEARS IN PRODUCTION</text>
+
+  <line x1="364" y1="84" x2="364" y2="162" stroke="#111117" stroke-opacity="0.09"/>
+  <text x="404" y="132" class="stat">5×</text>
+  <text x="406" y="158" class="statl">FORTUNE 500 COMPANIES</text>
+
+  <line x1="664" y1="84" x2="664" y2="162" stroke="#111117" stroke-opacity="0.09"/>
+  <text x="704" y="132" class="statw">MILLIONS</text>
+  <text x="706" y="158" class="statl">OF USERS SERVED</text>
+
+  <line x1="964" y1="84" x2="964" y2="162" stroke="#111117" stroke-opacity="0.09"/>
+  <text x="1004" y="132" class="statw">BILLIONS</text>
+  <text x="1006" y="158" class="statl">OF TRANSACTIONS RANKED</text>
+
+  <!-- divider -->
+  <line x1="84" y1="196" x2="1196" y2="196" stroke="#111117" stroke-opacity="0.08"/>
+
+  <!-- trust row -->
+  <text x="84" y="248" class="tlbl">TRUSTED IN PRODUCTION</text>
+  <circle cx="386" cy="243" r="2" fill="url(#accent)"/>
+  <text x="400" y="248" class="co">CVS HEALTH</text>
+  <circle cx="571" cy="243" r="2" fill="url(#accent)"/>
+  <text x="585" y="248" class="co">WALMART</text>
+  <circle cx="731" cy="243" r="2" fill="url(#accent)"/>
+  <text x="745" y="248" class="co">HUAWEI</text>
+  <circle cx="881" cy="243" r="2" fill="url(#accent)"/>
+  <text x="895" y="248" class="co">DHL</text>
+  <circle cx="1101" cy="243" r="2" fill="url(#accent)"/>
+  <text x="1196" y="248" text-anchor="end" class="co">BAXTER</text>
+
+  <!-- footer hairline + crop marks -->
+  <line x1="84" y1="284" x2="1196" y2="284" stroke="#111117" stroke-opacity="0.08"/>
+  <path d="M40 24v-8h8M1232 16h8v8M40 276v8h8M1240 276v8h-8" stroke="#111117" stroke-opacity="0.16"/>
+</svg>

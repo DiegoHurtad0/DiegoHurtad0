@@ -1,0 +1,125 @@
+<svg width="1280" height="680" viewBox="0 0 1280 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .name   { font: 800 132px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #F5F5F7; letter-spacing: -5px; }
+    .eye    { font: 600 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #7C819A; letter-spacing: 3.5px; }
+    .rail   { font: 600 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #4E5266; letter-spacing: 4px; }
+    .title  { font: 500 20px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #B7BCC9; letter-spacing: 0.3px; }
+    .mono   { font: 500 15px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #9E8CFC; }
+    .serif  { font: italic 400 18px Georgia, 'Times New Roman', serif; fill: #A6ABBE; letter-spacing: 0.2px; }
+    .lbl    { font: 500 11px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #6F7488; }
+    .seal   { font: 600 15px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #9E8CFC; letter-spacing: 1px; }
+    .ghost  { font: 800 400px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: none; stroke: #FFFFFF; stroke-opacity: 0.04; letter-spacing: -12px; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .n1 { animation: pulse 3s ease-in-out infinite; }
+    .n2 { animation: pulse 3s ease-in-out 0.6s infinite; }
+    .n3 { animation: pulse 3s ease-in-out 1.2s infinite; }
+    .n4 { animation: pulse 3s ease-in-out 1.8s infinite; }
+    .n5 { animation: pulse 3s ease-in-out 2.4s infinite; }
+    .ring  { transform-origin: 1030px 250px; animation: spin 30s linear infinite; }
+    .orbit { transform-origin: 1150px 566px; animation: spin 12s linear infinite; }
+    .beam  { animation: shimmer 7s ease-in-out infinite; }
+    @keyframes blink   { 50% { opacity: 0; } }
+    @keyframes pulse   { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } }
+    @keyframes spin    { to { transform: rotate(360deg); } }
+    @keyframes shimmer { 0%, 100% { opacity: 0.04; } 50% { opacity: 0.09; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0A11"/>
+      <stop offset="100%" stop-color="#151027"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.3" r="0.55">
+      <stop offset="0%" stop-color="#6E56CF" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#6E56CF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6E56CF"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#FFFFFF" stroke-opacity="0.035" fill="none"/>
+    </pattern>
+  </defs>
+
+  <!-- base layers -->
+  <rect width="1280" height="680" fill="url(#bg)"/>
+  <rect width="1280" height="680" fill="url(#grid)"/>
+  <rect width="1280" height="680" fill="url(#glow)"/>
+
+  <!-- ghost letterforms -->
+  <text x="1310" y="660" text-anchor="end" class="ghost">AI</text>
+
+  <!-- diagonal beam -->
+  <rect x="-240" y="270" width="1900" height="130" fill="url(#accent)" class="beam" transform="rotate(-8 640 340)"/>
+
+  <!-- crop marks -->
+  <path d="M40 64V40h24M1216 40h24v24M40 616v24h24M1240 616v24h-24" stroke="#FFFFFF" stroke-opacity="0.14"/>
+
+  <!-- frame text -->
+  <text x="84" y="90" class="eye">PORTFOLIO — DIEGO HURTADO</text>
+  <text x="1196" y="90" text-anchor="end" class="eye">MEXICO CITY&#160;&#160;→&#160;&#160;U.S. TEAMS</text>
+  <line x1="84" y1="106" x2="1196" y2="106" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  <text x="46" y="520" transform="rotate(-90 46 520)" class="rail">PRODUCTION&#160;AI&#160;SYSTEMS&#160;—&#160;SINCE&#160;2016</text>
+  <text x="1236" y="220" transform="rotate(-90 1236 220)" class="rail" text-anchor="end">01&#160;/&#160;IDENTITY</text>
+
+  <!-- masthead -->
+  <text x="76" y="282" class="name">DIEGO</text>
+  <text x="76" y="400" class="name">HURTADO</text>
+  <rect x="84" y="426" width="56" height="5" fill="url(#accent)"/>
+  <text x="84" y="466" class="title">Senior Data Scientist&#160;&#160;·&#160;&#160;AI/ML Engineer</text>
+
+  <!-- tagline -->
+  <text x="84" y="512" class="mono">&#8250; multi-agent llm platforms · rag · ranking engines</text>
+  <rect x="548" y="500" width="9" height="15" fill="#9E8CFC" class="cursor"/>
+
+  <!-- value proposition -->
+  <text x="84" y="556" class="serif">I design and ship production-scale AI systems — multi-agent LLM platforms,</text>
+  <text x="84" y="582" class="serif">RAG retrieval, and large-scale ranking engines — for Fortune 500 companies.</text>
+
+  <!-- constellation -->
+  <g class="ring">
+    <circle cx="1030" cy="250" r="118" stroke="#6E56CF" stroke-opacity="0.2" stroke-dasharray="2 7"/>
+  </g>
+  <circle cx="1030" cy="250" r="72" stroke="#6E56CF" stroke-opacity="0.14"/>
+  <line x1="1030" y1="250" x2="1030" y2="168" stroke="url(#accent)" stroke-opacity="0.35"/>
+  <line x1="1030" y1="250" x2="923"  y2="238" stroke="url(#accent)" stroke-opacity="0.35"/>
+  <line x1="1030" y1="250" x2="1137" y2="218" stroke="url(#accent)" stroke-opacity="0.35"/>
+  <line x1="1030" y1="250" x2="973"  y2="322" stroke="url(#accent)" stroke-opacity="0.35"/>
+  <line x1="1030" y1="250" x2="1107" y2="312" stroke="url(#accent)" stroke-opacity="0.35"/>
+  <line x1="923"  y1="238" x2="973"  y2="322" stroke="#6E56CF" stroke-opacity="0.15"/>
+  <line x1="1137" y1="218" x2="1107" y2="312" stroke="#6E56CF" stroke-opacity="0.15"/>
+  <line x1="1030" y1="168" x2="1137" y2="218" stroke="#6E56CF" stroke-opacity="0.15"/>
+  <circle cx="1030" cy="250" r="10" fill="url(#accent)"/>
+  <circle cx="1030" cy="168" r="6" fill="#9E8CFC" class="n1"/>
+  <circle cx="923"  cy="238" r="6" fill="#7C9BFA" class="n2"/>
+  <circle cx="1137" cy="218" r="6" fill="#9E8CFC" class="n3"/>
+  <circle cx="973"  cy="322" r="6" fill="#7C9BFA" class="n4"/>
+  <circle cx="1107" cy="312" r="6" fill="#9E8CFC" class="n5"/>
+  <text x="1045" y="162" class="lbl">agents</text>
+  <text x="857"  y="242" class="lbl">rag</text>
+  <text x="1151" y="214" class="lbl">ranking</text>
+  <text x="901"  y="338" class="lbl">forecasting</text>
+  <text x="1121" y="328" class="lbl">mlops</text>
+
+  <!-- monogram seal -->
+  <circle cx="1150" cy="566" r="40" stroke="url(#accent)" stroke-opacity="0.6"/>
+  <circle cx="1150" cy="566" r="52" stroke="#6E56CF" stroke-opacity="0.15" stroke-dasharray="2 6"/>
+  <text x="1150" y="572" text-anchor="middle" class="seal">DH·</text>
+  <g class="orbit">
+    <circle cx="1150" cy="514" r="3" fill="#9E8CFC"/>
+  </g>
+
+  <!-- drifting particles -->
+  <circle cx="700" cy="130" r="2" fill="#9E8CFC" opacity="0.35">
+    <animate attributeName="cy" values="130;110;130" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="440" r="2" fill="#7C9BFA" opacity="0.3">
+    <animate attributeName="cy" values="440;416;440" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1230" cy="400" r="2" fill="#9E8CFC" opacity="0.3">
+    <animate attributeName="cy" values="400;424;400" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- signature accent -->
+  <rect x="0" y="676" width="1280" height="4" fill="url(#accent)"/>
+</svg>
